@@ -1,0 +1,6 @@
+{
+  "plugins": [["import", {
+    "libraryName": "mui",
+    "libraryDirectory": "src/components"
+  }]]
+}
